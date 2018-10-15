@@ -1,0 +1,10 @@
+.env
+.htaccess
+packages
+nbproject/
+vendor/*
+composer.lock
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
+
+storage/*
